@@ -1,0 +1,23 @@
+{
+  "name": "learn-npm",
+  "version": "1.0.0",
+  "description": "learn basic npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learn",
+    "npm"
+  ],
+  "author": "roby afrizal palmendha",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "cowsay": "^1.4.0",
+    "sinsay": "^1.2.4",
+    "supervillains": "^3.0.0",
+    "yodasay": "^1.1.9",
+    "yosay": "^2.0.2"
+  }
+}
