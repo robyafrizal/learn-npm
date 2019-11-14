@@ -1,6 +1,3 @@
-- Learning Node Js
-- Learning NPM package
-
 # Learn NPM
 
 ## About
