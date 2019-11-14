@@ -4,6 +4,8 @@ const supervillains = require("supervillains");
 const sinsay = require("sinsay");
 const yosay = require("yosay");
 const yodasay = require("yodasay");
+const moment = require("moment");
+const date = moment().format("MMMM Do YYYY, h:mm:ss a");
 
 const supervillainsName = supervillains.all;
 
@@ -19,7 +21,7 @@ console.log(
   })
 );
 
-console.log(yosay("Hello everyone.. What do you want to do"));
+console.log(yosay(date));
 
 console.log(
   yodasay.say({ text: chalk.blue.bgWhite.bold("Welcome to My World!!") })
