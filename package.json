@@ -15,7 +15,7 @@
   "dependencies": {
     "chalk": "^3.0.0",
     "cowsay": "^1.4.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "sinsay": "^1.2.4",
     "supervillains": "^3.0.0",
     "yodasay": "^1.1.9",
